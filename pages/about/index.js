@@ -134,8 +134,7 @@ const About = () => {
              animate="show"
              exit="hidden"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0">
-              Hace 1 años comencé a trabajar como desarrollador independiente. Desde entonces, he
-Realicé trabajo remoto para agencias, asesoré a nuevos empresarios y colaboré en productos digitales para uso empresarial y de consumo.
+              Hace 1 año que empecé a trabajar como desarrollador independiente. Desde entonces, he realizado trabajos remotos para agencias, brindé asesoramiento a nuevos emprendedores y colaboré en el desarrollo de productos digitales tanto para uso empresarial como para consumo.
             </motion.p>
           
           {/*counters */}
