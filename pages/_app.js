@@ -19,7 +19,9 @@ function MyApp({ Component, pageProps }) {
       <AnimatePresence mode='wait'>
         <motion.div key={router.route} className='h-full'>
           <Transition />
-          <Component {...pageProps}/>
+  {array.map((item, index) => (
+          <Component key={index} {...pageProps}/>
+  ))}
         </motion.div>
       </AnimatePresence>
     </Layout>
