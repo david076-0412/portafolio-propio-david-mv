@@ -9,10 +9,10 @@ const Socials = () => {
       <Link href={'https://www.youtube.com/channel/UCJ37mNvwJw_-A8NcZ9E-UCQ'} className='hover:text-accent transition-all duration-300' target="_blank" rel="noopener noreferrer">
         <RiYoutubeLine />
       </Link>
-      <Link href={'https://www.facebook.com/davidmejiavilca'} className='hover:text-accent transition-all duration-300' target="_blank" rel="noopener noreferrer">
+      <Link href={'https://www.facebook.com/davidmv1204/'} className='hover:text-accent transition-all duration-300' target="_blank" rel="noopener noreferrer">
         <RiFacebookLine />
       </Link>
-      <Link href={'https://www.instagram.com/davidmv40/'} className='hover:text-accent transition-all duration-300' target="_blank" rel="noopener noreferrer">
+      <Link href={'https://www.instagram.com/davidmv1204/'} className='hover:text-accent transition-all duration-300' target="_blank" rel="noopener noreferrer">
         <RiInstagramLine />
       </Link>
       
