@@ -21,16 +21,16 @@ export const testimonialSlider = [
     message:
       '"¡Increíble! Mi página web profesional refleja perfectamente mi identidad y servicios. Gracias por la atención personalizada y el diseño impecable. ¡Recomendaré siempre su talento excepcional!"',
   },
-  {
+ {
     image: '/avt-2.jpg',
-    name: 'Vicente Loayza Alexander',
+    name: 'Vicente Loayza Alexis',
     position: 'Cliente 2',
     message:
       '"Gracias por transformar nuestra experiencia educativa. La página web y aula virtual son intuitivas, atractivas y funcionales. Han mejorado enormemente nuestra comunicación y enseñanza. ¡Excelente trabajo!"',
   },
   {
     image: '/avt-3.jpg',
-    name: 'Choquecahua Suca Emanuel',
+    name: 'Chavez Jhonson Hector',
     position: 'Cliente 3',
     message:
       '"¡Increíble experiencia con la app de tienda online! Fácil navegación, gran variedad de productos y proceso de compra sin complicaciones. ¡Totalmente recomendada para mis compras online!"',
