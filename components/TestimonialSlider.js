@@ -23,7 +23,7 @@ export const testimonialSlider = [
   },
  {
     image: '/avt-2.jpg',
-    name: 'Vicente Loayza Alexis',
+    name: 'Vicente Lara Alexis',
     position: 'Cliente 2',
     message:
       '"Gracias por transformar nuestra experiencia educativa. La página web y aula virtual son intuitivas, atractivas y funcionales. Han mejorado enormemente nuestra comunicación y enseñanza. ¡Excelente trabajo!"',
